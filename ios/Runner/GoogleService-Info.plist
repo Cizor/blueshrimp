@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyDzqOzXfeL-te-VYoyevBhimeQUTi-dxZM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>416910850398</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.wild.smartrack</string>
+	<key>PROJECT_ID</key>
+	<string>smart-home-42440</string>
+	<key>STORAGE_BUCKET</key>
+	<string>smart-home-42440.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:416910850398:ios:36f905c548bbcdd21137cf</string>
+	<key>DATABASE_URL</key>
+	<string>https://smart-home-42440-default-rtdb.asia-southeast1.firebasedatabase.app</string>
+</dict>
+</plist>
